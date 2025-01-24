@@ -14,6 +14,7 @@
 ![Image ALt](https://github.com/CHANDANA2005971/Operatingsystem-lab/blob/e060a657a250f08cfcbcd99a41c2b13ba5c240b5/uname-r.jpeg)
 ![Image Alt](https://github.com/CHANDANA2005971/Operatingsystem-lab/blob/8cb46fcca35f794cf70414a86bcda5e0dd92f0c6/echo.jpeg)
 ![Image Alt](https://github.com/CHANDANA2005971/Operatingsystem-lab/blob/535dc8e5964e747f2749479315a9e458889651b1/echo%24home.jpeg)
+![image alt](https://github.com/CHANDANA2005971/Operatingsystem-lab/blob/293ad7e5144f431b1f333e3682203c8afd8626ec/bc.jpeg)
 
 
 
