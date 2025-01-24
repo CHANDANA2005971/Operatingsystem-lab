@@ -8,5 +8,6 @@
 ![Image Alt](https://github.com/CHANDANA2005971/Operatingsystem-lab/blob/71cd23fa9da3d3549b455bc8fbdc8fa3c69530ba/cal%20month%20year.jpeg)
 ![Image Alt](https://github.com/CHANDANA2005971/Operatingsystem-lab/blob/9b7697b3ad7b2abebc8879830be9d6c8608bdaaa/who.jpeg)
 ![Image Alt](https://github.com/CHANDANA2005971/Operatingsystem-lab/blob/1a57a97d6f649d0c7f360e4302cccd327667218c/who%20am%20i.jpeg)
+![Image Alt](https://github.com/CHANDANA2005971/Operatingsystem-lab/blob/348f5a08b4d06f994a4656eaadf0fdb323326151/tty.jpeg)
 
 
