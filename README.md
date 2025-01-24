@@ -23,6 +23,7 @@
 ![image alt](https://github.com/CHANDANA2005971/Operatingsystem-lab/blob/d0903be96b10035e0cd7c1c51c893b93940cfe08/cp-rsrcdes.jpeg)
 ![image alt](https://github.com/CHANDANA2005971/Operatingsystem-lab/blob/81f9b955edd5d7dd3dfbab486dc44577c696dce7/mv%20oldnew.jpeg)
 ![image alt](https://github.com/CHANDANA2005971/Operatingsystem-lab/blob/0c4121b63a838904b950e9f7a21746805890c794/mv%20f1f2f3dir.jpeg)
+![image alt](https://github.com/CHANDANA2005971/Operatingsystem-lab/blob/a433b24573fccd35b153bb144d9b6336182f408b/ls-a.jpeg)
 ![image alt](https://github.com/CHANDANA2005971/Operatingsystem-lab/blob/36bb988fe4ec7370f3180a9171533de75e9bece1/ls.jpeg)
 
 ![image alt](https://github.com/CHANDANA2005971/Operatingsystem-lab/blob/3f06f651f0de3b82d9fc98f3006344b37e7b477c/rm-fstar.jpeg)
