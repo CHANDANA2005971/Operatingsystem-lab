@@ -18,6 +18,7 @@
 ![image alt](https://github.com/CHANDANA2005971/Operatingsystem-lab/blob/4d17f8dacbfcbc956b3c5bae6868b70642f0eb36/mancmd.jpeg)
 ![image alt](https://github.com/CHANDANA2005971/Operatingsystem-lab/blob/e014ca2436ff5f1612c7767b0222405ac9e8bfb4/catfilename.jpeg)
 ![Image alt](https://github.com/CHANDANA2005971/Operatingsystem-lab/blob/6ab9c7d0d8adb4e1ba8b55ec0c39f210f3042015/cat%20dir.jpeg)
+![image alt](https://github.com/CHANDANA2005971/Operatingsystem-lab/blob/1f7f3d18f1412477b30a10570124f89b637adbe6/cpsrcdes.jpeg)
 
 
 
