@@ -128,4 +128,4 @@ int main() {
     return 0;
 }
 ```
-![screenshot](6a.jpg)
+![screenshot](6a.png)
