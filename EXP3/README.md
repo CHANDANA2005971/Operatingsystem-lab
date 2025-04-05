@@ -168,4 +168,3 @@ int main() {
 ![screenshot](3-1.jpg)
 ![screenshot](3-2.jpg)
 ![screenshot](3-3.jpg)
-![screenshot](3-4.jpg)
