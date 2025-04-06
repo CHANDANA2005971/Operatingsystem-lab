@@ -51,4 +51,4 @@ int main() {
 }
 ```
 
-![screenshot](v2.jpg)
+![screenshot](V2.png)
