@@ -154,5 +154,5 @@ int main() {
 }
 ```
 
-![screenshot](V-1.1.png)
-![screenshot](V-1.2.png)
+![screenshot](V-1.jpg)
+![screenshot](V-2.jpg)
